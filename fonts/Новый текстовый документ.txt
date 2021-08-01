@@ -1,0 +1,9 @@
+monserat
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+font-family: 'Montserrat', sans-serif;
+
+nutino sans
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+font-family: 'Nunito Sans', sans-serif;
